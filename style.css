@@ -1,0 +1,64 @@
+html {
+  text-align: center;
+  font-size: 30px;
+  font-family: Impact, black, sans-serif;
+}
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+
+body 
+{
+   color: white;
+   background-color: #0074D9;
+   display: inline-flex;
+   margin: 0px auto;
+   padding-top: 30px;
+   text-align: center;
+}
+
+form
+{
+	padding: 30px;
+
+}
+
+input
+{
+	
+	width: 25px;
+	height: 25px;
+	background-color: black;
+
+}
+
+.btn1
+{
+	border-style: solid;
+  	border-width: 5px;
+	color: yellow;
+	background-color: black;
+}
+
+.btn2
+{
+	border-style: solid;
+  	border-width: 5px;
+	color: lightblue;
+	background-color: black;
+}
+
+.btn3
+{
+	border-style: solid;
+  	border-width: 5px;
+	color: red;
+	background-color: black;
+}
+
+
+div
+{
+
+}
